@@ -11,3 +11,19 @@ H
 - 🤔 Procuro ajuda em formas de melhorar meus código.
 - 😄 Pronouns: ele/dele
 -->
+
+<div>
+  <a href="https://beacons.ai/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ribeiro131&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ribeiro131&layout=compact&langs_count=16&theme=dark"/>
+</div>
+  
+
+
+  
+##
+  
+
+
+![Snake animation](https://github.com/Ribeiro131/Ribeiro131/blob/output/github-contribution-grid-snake.svg)
+
