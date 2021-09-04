@@ -1,4 +1,4 @@
-@@ Olá,sou Douglas Ribeiro Antunes,estudante de engenharia de Petróleo da UENF.
+ Olá,sou Douglas Ribeiro Antunes
 
 <!--
 **Ribeiro131/Ribeiro131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
